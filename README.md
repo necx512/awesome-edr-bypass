@@ -94,7 +94,9 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Bring Your Own Backdoor: How Vulnerable Drivers Let Hackers In - VMware Security Blog - VMware](https://blogs.vmware.com/security/2023/04/bring-your-own-backdoor-how-vulnerable-drivers-let-hackers-in.html)
 - [It’ll be back: Attackers still abusing Terminator tool and variants – Sophos News](https://news.sophos.com/en-us/2024/03/04/itll-be-back-attackers-still-abusing-terminator-tool-and-variants/)
 - [Bypassing EDR through Retrosigned Drivers and System Time Manipulation](https://www.aon.com/en/insights/cyber-labs/bypassing-edr-through-retrosigned-drivers-and-system-time-manipulation)
-  - Retrosigned Drivers extends previous techniques by altering the system clock on the target system to load malicious kernel drivers that were signed by historically compromised expired cross-signing certificates. 
+  - Retrosigned Drivers extends previous techniques by altering the system clock on the target system to load malicious kernel drivers that were signed by historically compromised expired cross-signing certificates.
+- [ThanniKudam/TopazTerminator: Just another EDR killer](https://github.com/ThanniKudam/TopazTerminator)
+  - PoC 
 
 ### Sandbox / Container
 - [Live off the Land? How About Bringing Your Own Island? An Overview of UNC1945 | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/live-off-the-land-an-overview-of-unc1945?hl=en)
